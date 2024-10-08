@@ -8,3 +8,6 @@ I´m currently studying as a Full-Stack Developer @ Helsinki Business College.
 -  How to reach me: jongian@hotmail.com
 -  Pronouns: he/him
 -  Fun fact: I have a cat named Jupiter 😻.
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanGian&theme=tokyonight)
