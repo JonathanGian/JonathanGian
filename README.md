@@ -12,4 +12,4 @@ I´m currently studying as a Full-Stack Developer @ Helsinki Business College.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanGian&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanGian&size_weight=0.5&count_weight=0.5)
+
