@@ -3,7 +3,7 @@
 I´m currently studying as a Full-Stack Developer @ Helsinki Business College.
 
 -  I’m learning  JavaScript, CSS and HTML and looking for a mentor.
--  You can reach me at jongian@hotmail.com
+-  You can reach me at jongian90@gmail.com
 -  Fun fact: I have a cat named Jupiter 😻.
 
 
